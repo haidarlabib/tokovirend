@@ -1,0 +1,6 @@
+produk,elastisitas,kategori,qty_forecast,harga_saat_ini,harga_optimal,qty_optimal,revenue_maksimum
+L,0.4444,Inelastis,5149,1750,2625,6165,16184142
+M,-0.4146,Inelastis,2405,1750,2625,2033,5336516
+S,-0.3779,Inelastis,1292,1700,2550,1108,2826459
+XL,-0.5573,Inelastis,3128,2300,3450,2495,8607632
+XXL,-2.0894,Elastis,2363,2500,2000,3767,7534633

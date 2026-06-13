@@ -1,0 +1,15 @@
+{
+    "filename": "data_penjualan.xlsx",
+    "upload_time": "13 Jun 2026 | 00:17 WIB",
+    "total_records": 9130,
+    "total_columns": 6,
+    "date_range_start": "01 Jan 2021",
+    "date_range_end": "31 Dec 2025",
+    "products": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XXL"
+    ]
+}
